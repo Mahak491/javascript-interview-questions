@@ -17,3 +17,10 @@ function fncontainer(){
 }
 
 fncontainer();
+
+
+/*ans -> varname undefined
+i am function
+i am function
+i am function conatiner
+i am function conatiner */
